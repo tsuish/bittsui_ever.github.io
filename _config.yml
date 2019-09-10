@@ -9,6 +9,7 @@ title: tsuish's blog
 url: http://bittsui.github.io
 feed: /atom.xml
 author_info: <a href="http://bittsui.github.io/">bittsui</a>
+favicon: "/images/favicon.ico"
 
 myblog:
   gavatar: c3e584693e41773b3ff808324653c2f4

@@ -5,7 +5,7 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <div class="cate-bar">
-          <a href="{{ site.myblog.linkedin }}"><i class="icon-linkedin-sign icon-large"></i><span> Profile</span></a>
+          <!--<a href="{{ site.myblog.linkedin }}"><i class="icon-linkedin-sign icon-large"></i><span> Profile</span></a>-->
           <a href="{{ site.myblog.github }}"><i class="icon-github icon-large"></i><span> Code</span></a>
           <a class="hide-phone" href="http://prose.io/#{{ site.myblog.gpname }}/{{ site.myblog.gpname }}.github.io" target="_blank"><i class="icon-edit-sign icon-large"></i><span> Prose</span></a>
         </div>

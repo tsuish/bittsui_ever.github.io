@@ -10,7 +10,7 @@ tags: my
 
 ## [1、$ git push -u origin master 推送到远程库出错](https://blog.csdn.net/sinat_23619409/article/details/83340714)
 
-## [2、](https://blog.csdn.net/emptyset110/article/details/50123231)[搭建一个支持LaTEX的hexo博客](https://blog.csdn.net/emptyset110/article/details/50123231)
+## [2、搭建一个支持LaTEX的hexo博客](https://blog.csdn.net/emptyset110/article/details/50123231)
 
 ## [3、github、markdown以及latex使用总结](https://blog.csdn.net/David_Han008/article/details/78343836)
 

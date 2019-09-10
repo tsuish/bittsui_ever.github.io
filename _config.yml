@@ -5,16 +5,16 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: LI, Yu from 1981
-url: http://liyu1981.github.io
+title: tsuish
+url: http://bittsui.github.io
 feed: /atom.xml
-author_info: <a href="http://liyu1981.github.io/">LI,Yu</a>
+author_info: <a href="http://bittsui.github.io/">tsuish</a>
 
 myblog:
-  gavatar: 6a1f8a9d412c8e54bed896135c6f7d0c
-  gpname: liyu1981
-  linkedin: http://www.linkedin.com/pub/yu-li/6/3a4/499
-  github: http://www.github.com/liyu1981?tab=repositories
+  gavatar: c3e584693e41773b3ff808324653c2f4
+  gpname: tsuish
+  linkedin: 
+  github: http://www.github.com/bittsui?tab=repositories
   coverimgs: >
     'url("http://liyu1981.smugmug.com/Photography/365-days-365-photos/i-QCTQNpn/0/X3/IMG_3940-X3.jpg")',
     'url("http://liyu1981.smugmug.com/Photography/365-days-365-photos/i-zvPmxS6/0/X3/IMG_3006-X3.jpg")',

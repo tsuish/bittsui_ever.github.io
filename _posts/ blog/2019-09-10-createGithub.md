@@ -3,6 +3,8 @@ category: blog
 published: true
 layout: post
 title: 使用Github搭建属于自己的博客
+tags: my
+
 ---
 
 # [使用Github搭建属于自己的博客](https://www.jianshu.com/p/4f56cf990bba)

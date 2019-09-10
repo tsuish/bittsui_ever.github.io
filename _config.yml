@@ -62,5 +62,5 @@ prose:
         field:
           element: "text"
           value: "blog"
-          placeholder: "Input your title here"
+          placeholder: "Input your Category here"
           type: "text"

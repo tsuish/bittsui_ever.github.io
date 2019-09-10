@@ -5,14 +5,14 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: tsuish
+title: bittsui
 url: http://bittsui.github.io
 feed: /atom.xml
-author_info: <a href="http://bittsui.github.io/">tsuish</a>
+author_info: <a href="http://bittsui.github.io/">bittsui</a>
 
 myblog:
   gavatar: c3e584693e41773b3ff808324653c2f4
-  gpname: tsuish
+  gpname: bittsui
   linkedin: 
   github: http://www.github.com/bittsui?tab=repositories
   coverimgs: >
@@ -28,7 +28,7 @@ myblog:
 
 prose:
   rooturl: "_posts"
-  # siteurl: "http://liyu1981.github.io/"
+  # siteurl: "http://bittsui.github.io/"
   media: "images"
   metadata:
     _posts/blog:

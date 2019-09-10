@@ -60,5 +60,7 @@ prose:
 
       - name: "category"
         field:
-          element: "hidden"
+          element: "text"
           value: "blog"
+          placeholder: "Input your title here"
+          type: "text"

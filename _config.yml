@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: bittsui
+title: tsuish's blog
 url: http://bittsui.github.io
 feed: /atom.xml
 author_info: <a href="http://bittsui.github.io/">bittsui</a>

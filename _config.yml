@@ -6,20 +6,20 @@ paginate: 8
 permalink: /:title
 
 title: tsuish's blog
-url: https://tsuish.github.io/bittsui_ever.github.io/
+url: 'https://tsuish.github.io/bittsui_ever.github.io/'
 feed: /atom.xml
-author_info: <a href="http://bittsui.github.io/">bittsui</a>
-favicon: "../images/favicon.ico"
+author_info: <a href="https://tsuish.github.io/bittsui_ever.github.io/">bittsui</a>
+favicon: "images/favicon.ico"
 
 
 myblog:
   gavatar: c3e584693e41773b3ff808324653c2f4
   gpname: bittsui
   # linkedin: https://meiriyiwen.com/
-  github: http://www.github.com/bittsui
+  github: http://www.github.com/tsuish
   coverimgs: >
-    'url("https://raw.githubusercontent.com/BitTsui/bittsui.github.io/master/images/background2.jpg")'
-  postbgimg: https://raw.githubusercontent.com/BitTsui/bittsui.github.io/master/images/1000141.jpg
+    'url("images/background2.jpg")'
+  postbgimg: images/1000141.jpg
 
 prose:
   rooturl: "_posts"

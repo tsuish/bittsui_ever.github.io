@@ -6,7 +6,7 @@ paginate: 8
 permalink: /:title
 
 title: tsuish's blog
-url: http://bittsui.github.io
+url: https://tsuish.github.io/bittsui_ever.github.io/
 feed: /atom.xml
 author_info: <a href="http://bittsui.github.io/">bittsui</a>
 favicon: "../images/favicon.ico"
